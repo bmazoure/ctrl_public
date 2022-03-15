@@ -1,0 +1,12 @@
+absl-py==0.13.0
+flax==0.3.4
+jax[cuda110]==0.2.17 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+optax==0.0.9
+subprocess32==3.5.4
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+wandb==0.12.2
+tensorflow_probability
